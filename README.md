@@ -40,6 +40,7 @@ The single-page application is contained in an index.html file, where CSS and Ja
 Key Features and Functions
 
 Button Click Handling: The doNothingButton button increments a click counter on each press. After each click, it displays a random message from a predefined list.
+
 Progress Bar: The progress bar dynamically updates its width based on the click count. CSS transitions make the bar fill smoothly.
 
 # Installation
@@ -56,8 +57,7 @@ npm install
 
 # Run
 Run the website in a local server to begin your journey of doing absolutely nothing.
-
-# Start a local server (use live-server, http-server, or similar tools)
+Start a local server (use live-server, http-server, or similar tools)
 npx live-server
 Or open index.html directly in your browser and prepare to achieve nothing.
 
@@ -85,6 +85,7 @@ JavaScript: Handles all interactive elements—the clicks, messages, animations,
 
 
 *Button Duplication*
+
 ![image](https://github.com/user-attachments/assets/2ca6b5e1-d6d2-49fc-a722-c0cc8a9b1ef6)
 
 
