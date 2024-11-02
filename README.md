@@ -20,37 +20,35 @@ A website with a button that does absolutely nothing except replicate itself for
 ## Technical Details
 ### Technologies/Components Used
 Software:
-- Languages used :
-    -HTML
-    -CSS
-    -Javascript
+- Languages used : HTML, CSS, Javascript
 - Frameworks used : None
-- Libraries used : Canvas Confetti(for creating confetti animations).
-- Tools used :
-    -VSCode Editor
-    -Web Browser
+- Libraries used : Canvas Confetti (for creating confetti animations).
+- Tools used : VSCode Editor, Web Browser, ChatGPT
 
 ### Implementation
-For Software:
-Implementation
+For Software Implementation:
 
 Overview of Technologies and Tools
 
-The project uses HTML, CSS, and JavaScript as the primary technologies. The Canvas Confetti library is used for celebratory effects upon reaching milestones.
+The project uses HTML, CSS, and JavaScript as the primary technologies. The Canvas Confetti library is used for celebratory effects upon reaching milestones. ChatGPT was used to generating code snippets for some features as well as for debugging assistance.
+
+
 Project Structure
 
 The single-page application is contained in an index.html file, where CSS and JavaScript are embedded within <style> and <script> tags, respectively. This keeps everything in one file for simplicity.
+
 Key Features and Functions
 
 Button Click Handling: The doNothingButton button increments a click counter on each press. After each click, it displays a random message from a predefined list.
 Progress Bar: The progress bar dynamically updates its width based on the click count. CSS transitions make the bar fill smoothly.
+
 # Installation
 To get started with the Do Nothing Website, follow these commands:
 - Clone this repository
-git clone https://github.com/yourusername/DoNothingWebsite.git
+git clone https://github.com/christinawdc/Do-Nothing-Website.git
 
 - Navigate into the project directory
-cd DoNothingWebsite
+cd Do-Nothing-Website
 
 - Install any dependencies (if necessary)
 npm install
@@ -75,31 +73,19 @@ CSS: Adds a touch of color and style, making the button look just enticing enoug
 JavaScript: Handles all interactive elements—the clicks, messages, animations, and duplicate button spawns.
 
 # Screenshots 
-![image](https://github.com/user-attachments/assets/9d9cfd74-6472-44e2-8aba-f15dbb1792b1)
 
 *Landing State/Initial Load Page*
 
+![image](https://github.com/user-attachments/assets/dd26d159-8f06-4e96-a98b-08e98610d12d)
 
-![Screenshot (24)](https://github.com/user-attachments/assets/c9be7e77-5325-44a1-ad81-1d0d94e0376f)
 
 *Achievements*
 
+![Screenshot (27)](https://github.com/user-attachments/assets/6c2cb235-fc6d-40c0-a233-a320b86b4b26)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+*Button Duplication*
+![image](https://github.com/user-attachments/assets/2ca6b5e1-d6d2-49fc-a722-c0cc8a9b1ef6)
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
-
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
-
-
-
