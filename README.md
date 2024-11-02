@@ -25,13 +25,25 @@ Software:
     -CSS
     -Javascript
 - Frameworks used : None
-- Libraries used : None
+- Libraries used : Canvas Confetti(for creating confetti animations).
 - Tools used :
     -VSCode Editor
     -Web Browser
 
 ### Implementation
 For Software:
+Implementation
+
+Overview of Technologies and Tools
+
+The project uses HTML, CSS, and JavaScript as the primary technologies. The Canvas Confetti library is used for celebratory effects upon reaching milestones.
+Project Structure
+
+The single-page application is contained in an index.html file, where CSS and JavaScript are embedded within <style> and <script> tags, respectively. This keeps everything in one file for simplicity.
+Key Features and Functions
+
+Button Click Handling: The doNothingButton button increments a click counter on each press. After each click, it displays a random message from a predefined list.
+Progress Bar: The progress bar dynamically updates its width based on the click count. CSS transitions make the bar fill smoothly.
 # Installation
 To get started with the Do Nothing Website, follow these commands:
 - Clone this repository
