@@ -45,10 +45,14 @@ npm install
 
 
 # Run
-Run the website locally to begin your journey of doing absolutely nothing:
+Run the website in a local server to begin your journey of doing absolutely nothing.
+
 # Start a local server (use live-server, http-server, or similar tools)
 npx live-server
 Or open index.html directly in your browser and prepare to achieve nothing.
+
+Or just open this link in a new tab: 
+https://do-nothing-website.glitch.me
 
 ### Project Documentation
 For Software:
@@ -58,12 +62,16 @@ HTML: Defines the layout of the single, unproductive button.
 CSS: Adds a touch of color and style, making the button look just enticing enough to click.
 JavaScript: Handles all interactive elements—the clicks, messages, animations, and duplicate button spawns.
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+![image](https://github.com/user-attachments/assets/9d9cfd74-6472-44e2-8aba-f15dbb1792b1)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Landing State/Initial Load Page*
+
+
+![Screenshot (24)](https://github.com/user-attachments/assets/c9be7e77-5325-44a1-ad81-1d0d94e0376f)
+
+*Achievements*
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
