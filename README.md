@@ -51,8 +51,6 @@ git clone https://github.com/christinawdc/Do-Nothing-Website.git
 - Navigate into the project directory
 cd Do-Nothing-Website
 
-- Install any dependencies (if necessary)
-npm install
 
 
 # Run
